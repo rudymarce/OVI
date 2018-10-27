@@ -1,9 +1,15 @@
-body{
-  font: 15px Angsana New, Angsana New bold;
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+
+*{
   padding:0;
   margin:0;
   background-color:#f4f4f4;
+  box-sizing: border-box;
+}
 
+body{
+  font-family: 'Open Sans', sans-serif;
+  
 }
 
 /* Estilos globales */
